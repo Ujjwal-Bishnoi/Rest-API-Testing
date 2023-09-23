@@ -1,0 +1,1 @@
+newman run "D:\Project Postman\Restful Booker API Testing.postman_collection.json" -e "D:\Project Postman\Restful booker.postman_environment.json"
